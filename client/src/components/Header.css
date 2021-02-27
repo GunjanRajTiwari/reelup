@@ -1,0 +1,28 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8em;
+  background-color: #333;
+  font-family: "Montserrat", sans-serif;
+}
+
+.brand {
+  text-decoration: none;
+  color: #55c0c0;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #eee;
+  margin: 0 1em;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+}

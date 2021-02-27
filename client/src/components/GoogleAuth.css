@@ -1,0 +1,20 @@
+.btn-auth {
+  background-color: #fefefe;
+  height: 32px;
+  width: 85px;
+  border: none;
+  border-radius: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-family: "Montserrat", sans-serif;
+}
+
+.auth {
+  display: inline-block;
+}
+
+.google-icon {
+  height: 24px;
+  display: inline;
+}
